@@ -9,6 +9,7 @@ FullAppUpdate_v4.spec >> used file to make "PFue-II.exe" via pyinstaller
 
 daA1920-30uc_22901961.pfs >> a current feature of Basler camera (using in this project at BARTLAB 3rd floor conditon)
 
+
 # Note:
 Python used version: python 3.5
 opencv-python module version: 4.1.0.25
